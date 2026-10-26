@@ -1,0 +1,5 @@
+playwright>=1.45
+google-auth>=2.30
+google-auth-oauthlib>=1.2
+requests>=2.31
+keyring>=25
